@@ -126,7 +126,4 @@ This project provided practical experience with FastAPI, REST API development, K
 
 Future improvements can include PostgreSQL/PostGIS for persistent geospatial data, GeoJSON and additional geometry support, authentication, file-size validation, improved ZIP security, background processing for large files, Docker deployment, and more advanced CRS handling.
 
-## Submission
 
-GitHub Repository:
-https://github.com/MITGOUTHAM/geospatial-measurement-api
