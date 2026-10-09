@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Uploaded files
+uploads/*
+
+# Extracted geospatial files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Test ZIP files
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
